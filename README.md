@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[gif]: https://raw.githubusercontent.com/uysalserkan/uysalserkan/master/charmander.gif
+![gif]
 <!--
 **uysalserkan/uysalserkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
