@@ -11,4 +11,10 @@
 </div>
 
 <!--START_SECTION:waka-->
+```text
+Python     7 hrs 3 mins    █████████████▓░░░░░░░░░░░   54.92 % 
+HTML       4 hrs 30 mins   ████████▓░░░░░░░░░░░░░░░░   35.10 % 
+C          1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+```
 <!--END_SECTION:waka-->
