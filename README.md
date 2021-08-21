@@ -12,6 +12,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 10 mins    █████████████████████████   99.98 % 
+Java       1 hr 10 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
