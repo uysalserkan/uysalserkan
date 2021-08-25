@@ -12,6 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java       5 mins          █████████████████████████   100.00 % 
+Properties   14 mins         ███████████████▓░░░░░░░░░   62.76 % 
+Java         8 mins          █████████▒░░░░░░░░░░░░░░░   37.24 % 
 ```
 <!--END_SECTION:waka-->
