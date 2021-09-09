@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         2 hrs 6 mins    ██████████████████████▓░░   90.25 % 
-TypeScript   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Java         18 mins         ██████████████▒░░░░░░░░░░   57.55 % 
+TypeScript   13 mins         ██████████▒░░░░░░░░░░░░░░   41.87 % 
 ```
 <!--END_SECTION:waka-->
