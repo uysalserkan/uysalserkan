@@ -10,8 +10,7 @@
 -->
 <!--START_SECTION:waka-->
 ```text
-PHP      57 mins         ███████████████████████▒░   93.07 % 
-Python   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
