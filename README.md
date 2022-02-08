@@ -1,7 +1,7 @@
 [gif]: https://raw.githubusercontent.com/uysalserkan/uysalserkan/master/charmander-2.gif
 
 ![gif]
-
+Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--
 <div align="center">
 <p>Profile Visitor Counter</p>
