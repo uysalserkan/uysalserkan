@@ -10,8 +10,6 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 -->
 <!--START_SECTION:waka-->
 ```text
-Total: 5 hrs 57 mins
-
 Python     5 hrs 38 mins   ███████████████████████░░   92.05 % 
 Text       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
