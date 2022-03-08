@@ -11,12 +11,12 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 55 mins    ████████████████████░░░░░   80.15 %
-Vue.js       16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-HTML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python       22 mins         ███████████▒░░░░░░░░░░░░░   45.79 %
+Vue.js       16 mins         ████████▓░░░░░░░░░░░░░░░░   34.33 %
+HTML         5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+JavaScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
