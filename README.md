@@ -11,11 +11,7 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       16 mins         ███████████████▓░░░░░░░░░   63.33 %
-HTML         5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-JavaScript   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
