@@ -11,10 +11,11 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Python     2 hrs 8 mins    ███████████████████████▒░   93.07 %
-CSV        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Python     2 hrs 49 mins   ███████████████████████▓░   94.03 %
+CSV        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
