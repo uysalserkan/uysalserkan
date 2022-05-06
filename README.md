@@ -11,8 +11,7 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 22 mins    █████████████████████████   99.85 %
-INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
