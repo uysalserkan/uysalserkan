@@ -11,8 +11,8 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Python   57 mins         ██████████████████████▓░░   90.70 %
-INI      5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+Python   4 hrs 53 mins   ███████████████████████▒░   93.91 %
+INI      19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
