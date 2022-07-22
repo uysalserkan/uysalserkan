@@ -11,10 +11,10 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     2 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   39.08 %
-Python       2 hrs 24 mins   ████████▓░░░░░░░░░░░░░░░░   35.02 %
-SQL          1 hr 2 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-Other        34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Python       4 hrs 33 mins   █████████████▒░░░░░░░░░░░   53.46 %
+Markdown     2 hrs 10 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
+SQL          1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Other        34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
 <!--END_SECTION:waka-->
