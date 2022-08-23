@@ -11,12 +11,8 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Python       14 hrs 46 mins  ███████████████████████▓░   94.68 %
-Git Config   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-SQL          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-TOML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python       16 hrs 53 mins  ██████████████████████▓░░   91.33 %
+Other        1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 ```
 
 <!--END_SECTION:waka-->
