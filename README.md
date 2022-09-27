@@ -11,11 +11,11 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Java         6 hrs 23 mins   ███████████████████▒░░░░░   76.83 %
-Python       1 hr 38 mins    █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-YAML         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Java         5 hrs 32 mins   ██████████████████▓░░░░░░   74.43 %
+Python       1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
