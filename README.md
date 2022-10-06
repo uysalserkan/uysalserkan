@@ -11,11 +11,11 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Java         2 hrs 56 mins   ██████████████████████▒░░   89.19 %
-Python       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Java         3 hrs 28 mins   ███████████████████████▓░   95.00 %
+Python       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
