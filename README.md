@@ -11,9 +11,8 @@ Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Java   6 hrs 7 mins    ████████████████████████░   95.60 %
-JSON   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-CSV    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Java   1 hr 59 mins    ████████████████████████░   95.62 %
+JSON   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
