@@ -1,6 +1,8 @@
-[gif]: https://raw.githubusercontent.com/uysalserkan/uysalserkan/master/charmander-2.gif
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uysalserkan/uysalserkan/master/charmander-2.gif">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/uysalserkan/uysalserkan/master/charmander-2.gif">
+</picture>
 
-![gif]
 Feel free to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--
 <div align="center">
@@ -175,3 +177,6 @@ INI        0 secs          ░░░░░░░░░░░░░░░░░�
   ]
 }
 ```
+
+
+
