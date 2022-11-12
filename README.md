@@ -21,6 +21,13 @@ INI        0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+```mermaid
+  graph TD;
+  U-->Y
+  Y-->S
+  S-->A
+  A-->L
+```
 
 
 ```geojson
