@@ -13,10 +13,10 @@ $\sqrt{Fe-el}+(free)^2$ to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 35 mins    █████████████▒░░░░░░░░░░░   53.94 %
-Bash     1 hr 6 mins     █████████▒░░░░░░░░░░░░░░░   37.52 %
-Docker   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Bash       2 hrs 51 mins   ████████████▒░░░░░░░░░░░░   48.89 %
+Python     1 hr 47 mins    ███████▓░░░░░░░░░░░░░░░░░   30.81 %
+Docker     29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Other      21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
 ```
 
 <!--END_SECTION:waka-->
