@@ -177,3 +177,4 @@ Other    28 mins         ████░░░░░░░░░░░░░░�
 ## Bookmarks
 
 - [Machine Learning Articles](https://github.com/christianversloot/machine-learning-articles)
+- [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
