@@ -174,16 +174,6 @@ Other    28 mins         ████░░░░░░░░░░░░░░�
 }
 ```
 
+## Bookmarks
 
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  ...
-```
-
+- [Machine Learning Articles](https://github.com/christianversloot/machine-learning-articles)
