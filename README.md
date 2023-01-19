@@ -180,3 +180,5 @@ JSON     19 mins         █▒░░░░░░░░░░░░░░░░�
 - [Machine Learning Articles](https://github.com/christianversloot/machine-learning-articles)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 - [ClearML](https://github.com/allegroai/clearml)
+- [Data Engineering ZoomCamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- [Prefect](https://github.com/PrefectHQ/prefect)
