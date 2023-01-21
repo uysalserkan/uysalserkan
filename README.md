@@ -185,3 +185,5 @@ Text       0 secs          ░░░░░░░░░░░░░░░░░�
 - [ClearML](https://github.com/allegroai/clearml)
 - [Data Engineering ZoomCamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - [Prefect](https://github.com/PrefectHQ/prefect)
+- [ML Interview Preparation](https://github.com/ThinamXx/ML..Interview..Preparation)
+- [Clean Lab](https://github.com/cleanlab/cleanlab)
