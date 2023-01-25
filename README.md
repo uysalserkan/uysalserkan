@@ -187,3 +187,4 @@ Text              2 mins          ░░░░░░░░░░░░░░░�
 - [Prefect](https://github.com/PrefectHQ/prefect)
 - [ML Interview Preparation](https://github.com/ThinamXx/ML..Interview..Preparation)
 - [Clean Lab](https://github.com/cleanlab/cleanlab)
+- [Polars](https://github.com/pola-rs/polars)
