@@ -13,8 +13,8 @@ $\sqrt{Fe-el}+(free)^2$ to [contact me.](mailto:uysalserkan08@gmail.com)
 <!--START_SECTION:waka-->
 
 ```text
-Python     9 hrs 29 mins   ████████████████████▒░░░░   81.16 %
-Other      56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Python       3 hrs 30 mins   ████████████████▒░░░░░░░░   65.37 %
+Other        1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   20.55 %
 ```
 
 <!--END_SECTION:waka-->
