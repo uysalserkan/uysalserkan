@@ -185,3 +185,4 @@ Other        1 hr 6 mins     ████░░░░░░░░░░░░░
 - [ML Interview Preparation](https://github.com/ThinamXx/ML..Interview..Preparation)
 - [Clean Lab](https://github.com/cleanlab/cleanlab)
 - [Polars](https://github.com/pola-rs/polars)
+- [Full Stack Deep Learning](https://github.com/full-stack-deep-learning/website)
