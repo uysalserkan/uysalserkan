@@ -187,3 +187,5 @@ Other        12 mins         █░░░░░░░░░░░░░░░░
 - [Clean Lab](https://github.com/cleanlab/cleanlab)
 - [Polars](https://github.com/pola-rs/polars)
 - [Full Stack Deep Learning](https://github.com/full-stack-deep-learning/website)
+- [MLOps Course](https://github.com/SkafteNicki/dtu_mlops)
+- [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
