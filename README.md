@@ -189,3 +189,4 @@ Other      6 mins          █▒░░░░░░░░░░░░░░░�
 - [Full Stack Deep Learning](https://github.com/full-stack-deep-learning/website)
 - [MLOps Course](https://github.com/SkafteNicki/dtu_mlops)
 - [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
+- [Apache Arrow](https://github.com/apache/arrow-datafusion)
