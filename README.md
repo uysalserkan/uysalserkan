@@ -192,3 +192,4 @@ Text       18 mins         █▒░░░░░░░░░░░░░░░�
 - [MLOps Course](https://github.com/SkafteNicki/dtu_mlops)
 - [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 - [Apache Arrow](https://github.com/apache/arrow-datafusion)
+- [Awesome Open Data Centric AI](https://github.com/Renumics/awesome-open-data-centric-ai)
