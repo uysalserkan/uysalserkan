@@ -188,3 +188,4 @@ No activity tracked
 - [PyTorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 - [Apache Arrow](https://github.com/apache/arrow-datafusion)
 - [Awesome Open Data Centric AI](https://github.com/Renumics/awesome-open-data-centric-ai)
+- [AI Collection](https://github.com/ai-collection/ai-collection)
