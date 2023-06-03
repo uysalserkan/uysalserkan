@@ -12,7 +12,7 @@ $\sqrt{Fe-el}+(free)^2$ to [contact me.](mailto:uysalserkan08@gmail.com)
 -->
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
