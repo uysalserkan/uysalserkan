@@ -175,6 +175,7 @@ No activity tracked
 
 ## Bookmarks
 
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Machine Learning Articles](https://github.com/christianversloot/machine-learning-articles)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 - [ClearML](https://github.com/allegroai/clearml)
