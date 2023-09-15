@@ -193,3 +193,4 @@ No activity tracked
 - [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
 - [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
