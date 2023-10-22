@@ -195,3 +195,4 @@ No activity tracked
 - [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [UNILM](https://github.com/microsoft/unilm/tree/master)
+- [Computer Vision in Wild!](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
