@@ -197,3 +197,4 @@ No activity tracked
 - [UNILM](https://github.com/microsoft/unilm/tree/master)
 - [Computer Vision in Wild!](https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings)
 - [FreeForDev](https://github.com/ripienaar/free-for-dev)
+- [Big Vision](https://github.com/google-research/big_vision)
