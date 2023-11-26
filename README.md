@@ -199,3 +199,4 @@ No activity tracked
 - [FreeForDev](https://github.com/ripienaar/free-for-dev)
 - [Big Vision](https://github.com/google-research/big_vision)
 - [Phoenix](https://github.com/Arize-ai/phoenix)
+- [Path to Senior Engineer Handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
