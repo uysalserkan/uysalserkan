@@ -203,3 +203,5 @@ No activity tracked
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
 - [Kubernetes Learning Path](https://github.com/techiescamp/kubernetes-learning-path)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [Complete System Design](https://github.com/Coder-World04/Complete-System-Design)
+- [System Design](https://github.com/karanpratapsingh/system-design)
