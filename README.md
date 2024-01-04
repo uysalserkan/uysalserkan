@@ -205,3 +205,5 @@ No activity tracked
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Complete System Design](https://github.com/Coder-World04/Complete-System-Design)
 - [System Design](https://github.com/karanpratapsingh/system-design)
+- [CrackingMachineLearningInterview](https://github.com/shafaypro/CrackingMachineLearningInterview)
+
