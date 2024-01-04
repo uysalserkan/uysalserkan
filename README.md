@@ -200,6 +200,7 @@ No activity tracked
 - [Big Vision](https://github.com/google-research/big_vision)
 - [Phoenix](https://github.com/Arize-ai/phoenix)
 - [Path to Senior Engineer Handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion)
 - [Kubernetes Learning Path](https://github.com/techiescamp/kubernetes-learning-path)
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
