@@ -207,4 +207,5 @@ No activity tracked
 - [Complete System Design](https://github.com/Coder-World04/Complete-System-Design)
 - [System Design](https://github.com/karanpratapsingh/system-design)
 - [CrackingMachineLearningInterview](https://github.com/shafaypro/CrackingMachineLearningInterview)
+- [Mage AI](https://github.com/mage-ai/mage-ai)
 
