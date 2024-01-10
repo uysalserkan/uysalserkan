@@ -209,4 +209,5 @@ No activity tracked
 - [CrackingMachineLearningInterview](https://github.com/shafaypro/CrackingMachineLearningInterview)
 - [Mage AI](https://github.com/mage-ai/mage-ai)
 - [ZenML](https://github.com/zenml-io/zenml)
+- [MLRun](https://github.com/mlrun/mlrun)
 
