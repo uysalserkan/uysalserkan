@@ -211,3 +211,4 @@ No activity tracked
 - [ZenML](https://github.com/zenml-io/zenml)
 - [MLRun](https://github.com/mlrun/mlrun)
 - [Kestra](https://github.com/kestra-io/kestra)
+- [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
