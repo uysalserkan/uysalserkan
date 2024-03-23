@@ -207,6 +207,7 @@ No activity tracked
 - [Complete System Design](https://github.com/Coder-World04/Complete-System-Design)
 - [System Design](https://github.com/karanpratapsingh/system-design)
 - [CrackingMachineLearningInterview](https://github.com/shafaypro/CrackingMachineLearningInterview)
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Mage AI](https://github.com/mage-ai/mage-ai)
 - [ZenML](https://github.com/zenml-io/zenml)
 - [MLRun](https://github.com/mlrun/mlrun)
