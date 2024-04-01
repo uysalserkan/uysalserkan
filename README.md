@@ -219,3 +219,4 @@ No activity tracked
 - [Apache Airavata](https://github.com/apache/airavata)
 - [Open Sora](https://github.com/hpcaitech/Open-Sora)
 - [Devika](https://github.com/stitionai/devika)
+- [Instill AI](https://github.com/instill-ai)
