@@ -220,3 +220,4 @@ No activity tracked
 - [Open Sora](https://github.com/hpcaitech/Open-Sora)
 - [Devika](https://github.com/stitionai/devika)
 - [Instill AI](https://github.com/instill-ai)
+- [StyleGAN3](https://github.com/NVlabs/stylegan3)
