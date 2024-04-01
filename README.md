@@ -4,6 +4,9 @@
 </picture>
 
 $\sqrt{Fe-el}+(free)^2$ to [contact me.](mailto:uysalserkan08@gmail.com)
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@uysalserkan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@uysalserkan/0" alt="Recent Article 0"> 
+
 <!--
 <div align="center">
 <p>Profile Visitor Counter</p>
