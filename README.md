@@ -215,3 +215,7 @@ No activity tracked
 - [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [shortlink](https://github.com/shortlink-org/shortlink)
 - [Elyra](https://github.com/elyra-ai/elyra)
+- [MKDocs](https://github.com/mkdocs/mkdocs/tree/master)
+- [Apache Airavata](https://github.com/apache/airavata)
+- [Open Sora](https://github.com/hpcaitech/Open-Sora)
+- [Devika](https://github.com/stitionai/devika)
