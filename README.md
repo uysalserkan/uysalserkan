@@ -224,3 +224,4 @@ No activity tracked
 - [Devika](https://github.com/stitionai/devika)
 - [Instill AI](https://github.com/instill-ai)
 - [StyleGAN3](https://github.com/NVlabs/stylegan3)
+- [TypeSense](https://github.com/typesense/typesense)
