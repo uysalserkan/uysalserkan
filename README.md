@@ -225,3 +225,8 @@ No activity tracked
 - [Instill AI](https://github.com/instill-ai)
 - [StyleGAN3](https://github.com/NVlabs/stylegan3)
 - [TypeSense](https://github.com/typesense/typesense)
+- [Insight Face](https://github.com/deepinsight/insightface)
+- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline?tab=readme-ov-file)
+- [Open Devin](https://github.com/OpenDevin/OpenDevin)
+- [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
+- [StyleGAN 3](https://github.com/NVlabs/stylegan3)
