@@ -234,3 +234,4 @@ No activity tracked
 - [n8n](https://github.com/n8n-io/n8n)
 - [PrestoDB](https://github.com/prestodb/presto)
 - [Apache Druid](https://github.com/apache/druid/)
+- [Apache Hudi](https://github.com/apache/hudi)
