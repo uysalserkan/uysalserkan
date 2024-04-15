@@ -230,3 +230,6 @@ No activity tracked
 - [Open Devin](https://github.com/OpenDevin/OpenDevin)
 - [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python)
 - [StyleGAN 3](https://github.com/NVlabs/stylegan3)
+- [CockroachDB](https://github.com/cockroachdb/cockroach)
+- [n8n](https://github.com/n8n-io/n8n)
+- [PrestoDB](https://github.com/prestodb/presto)
