@@ -233,3 +233,4 @@ No activity tracked
 - [CockroachDB](https://github.com/cockroachdb/cockroach)
 - [n8n](https://github.com/n8n-io/n8n)
 - [PrestoDB](https://github.com/prestodb/presto)
+- [Apache Druid](https://github.com/apache/druid/)
