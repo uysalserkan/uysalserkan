@@ -237,3 +237,4 @@ No activity tracked
 - [Apache Hudi](https://github.com/apache/hudi)
 - [Apple ML-4M](https://github.com/apple/ml-4m)
 - [Awesome Diffusion Models](https://github.com/diff-usion/Awesome-Diffusion-Models)
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
