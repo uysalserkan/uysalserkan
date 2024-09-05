@@ -239,3 +239,4 @@ No activity tracked
 - [Awesome Diffusion Models](https://github.com/diff-usion/Awesome-Diffusion-Models)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 - [Pre-Commit](https://pre-commit.com/)
+- [Bat](https://github.com/sharkdp/bat)
