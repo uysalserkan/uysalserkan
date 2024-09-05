@@ -238,3 +238,4 @@ No activity tracked
 - [Apple ML-4M](https://github.com/apple/ml-4m)
 - [Awesome Diffusion Models](https://github.com/diff-usion/Awesome-Diffusion-Models)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- [Pre-Commit](https://pre-commit.com/)
