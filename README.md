@@ -5,9 +5,7 @@
 
 $\sqrt{Fe-el}+(free)^2$ to [contact me.](mailto:uysalserkan08@gmail.com)
 
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-comm[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
-it/pre-commit)
-
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@uysalserkan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@uysalserkan/0" alt="Recent Article 0">
 
