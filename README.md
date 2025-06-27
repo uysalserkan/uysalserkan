@@ -86,26 +86,6 @@ $\sqrt{Fe-el}+(free)^2$ to reach out!
 <img src="https://profile-counter.glitch.me/uysalserkan/count.svg" alt="hit counter" align="center">
 </div>
 -->
-## 🚧 Featured Projects
-
-### 🤖 OfferFit Case Study
-**Machine Learning Solution for Business Optimization**
-- **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost
-- **Description:** Advanced analytics solution implementing ML algorithms for business case optimization
-- **Status:** ✅ Completed
-- 📁 [View Project](./OfferFitCase/)
-
-### 💻 LeetCode Solutions
-**Algorithm & Data Structure Practice**
-- **Tech Stack:** Python
-- **Description:** Collection of optimized solutions for coding interview preparation
-- **Problems Solved:**
-  - [Valid Palindrome (125)](./leetcode125.py)
-  - [Longest Consecutive Sequence (128)](./leetcode128.py)
-  - [3Sum (15)](./leetcode15.py)
-  - [Two Sum II (167)](./leetcode167.py)
-  - [Valid Sudoku (36)](./leetcode36.py)
-- **Status:** 🔄 Ongoing
 
 ### 🎯 What I'm Working On
 - 🔬 Advanced Computer Vision projects with Transformers
