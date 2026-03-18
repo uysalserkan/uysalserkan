@@ -53,6 +53,7 @@ Building AI agents, computer vision systems, and production-ready ML pipelines.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/uysalserkan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/uysalserkan)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@uysalserkan)
+[![Resume](https://img.shields.io/badge/-Resume-0d1117?style=flat&logo=github&logoColor=white)](https://uysalserkan.github.io/uysalserkan/)
 
 ## Location
 

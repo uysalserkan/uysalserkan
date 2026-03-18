@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Serkan UYSAL — Resume</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --accent: #58a6ff;
+      --accent2: #f78166;
+      --text: #c9d1d9;
+      --muted: #8b949e;
+      --radius: 8px;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      padding: 2rem 1rem;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    /* ── Header ── */
+    header {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+      padding: 2rem 2.5rem;
+      margin-bottom: 1.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      align-items: flex-start;
+    }
+
+    header .info { flex: 1 1 260px; }
+    header h1 { font-size: 2rem; font-weight: 700; color: #fff; }
+    header .title {
+      font-size: 1.05rem;
+      color: var(--accent);
+      font-weight: 600;
+      margin: 0.3rem 0 0.6rem;
+    }
+    header .tagline { color: var(--muted); font-size: 0.95rem; }
+
+    .badge-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 1.2rem;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.3rem 0.75rem;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      border: 1px solid var(--border);
+      background: var(--bg);
+    }
+    .badge.email   { border-color: #d14836; color: #d14836; }
+    .badge.linkedin { border-color: #0077b5; color: #0077b5; }
+    .badge.github  { border-color: #8b949e; color: #8b949e; }
+    .badge.medium  { color: var(--muted); }
+
+    /* ── Section ── */
+    section {
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+      padding: 1.6rem 2rem;
+      margin-bottom: 1.5rem;
+    }
+
+    section h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin-bottom: 1.1rem;
+      padding-bottom: 0.6rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* ── Focus areas ── */
+    .focus-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1rem;
+    }
+    .focus-card {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem 1.2rem;
+    }
+    .focus-card .icon { font-size: 1.5rem; margin-bottom: 0.4rem; }
+    .focus-card h3 { font-size: 0.95rem; font-weight: 700; color: #fff; margin-bottom: 0.3rem; }
+    .focus-card p  { font-size: 0.85rem; color: var(--muted); }
+
+    /* ── Skills ── */
+    .skill-group { margin-bottom: 0.9rem; }
+    .skill-group:last-child { margin-bottom: 0; }
+    .skill-group .label {
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 0.4rem;
+    }
+    .pill-row { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+    .pill {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.2rem 0.7rem;
+      font-size: 0.82rem;
+      color: var(--text);
+    }
+
+    /* ── Projects ── */
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1rem;
+    }
+    .project-card {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1rem 1.2rem;
+    }
+    .project-card h3 { font-size: 0.97rem; font-weight: 700; color: #fff; margin-bottom: 0.3rem; }
+    .project-card p  { font-size: 0.85rem; color: var(--muted); margin-bottom: 0.7rem; }
+    .project-meta   { display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; }
+    .stars {
+      font-size: 0.8rem;
+      color: var(--muted);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+    .lang-dot {
+      display: inline-block;
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      background: #3572A5;
+    }
+    .lang-label { font-size: 0.8rem; color: var(--muted); }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      font-size: 0.82rem;
+      color: var(--muted);
+      padding: 1rem 0 0.5rem;
+    }
+
+    @media (max-width: 600px) {
+      header { padding: 1.4rem; }
+      section { padding: 1.2rem; }
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <!-- ── Header ── -->
+  <header>
+    <div class="info">
+      <h1>Serkan UYSAL</h1>
+      <p class="title">ML Engineer</p>
+      <p class="tagline">Building AI agents, computer vision systems, and production-ready ML pipelines.</p>
+      <div class="badge-row">
+        <a class="badge email" href="mailto:uysalserkan08@gmail.com">✉ uysalserkan08@gmail.com</a>
+        <a class="badge linkedin" href="https://linkedin.com/in/uysalserkan" target="_blank" rel="noopener">in LinkedIn</a>
+        <a class="badge github" href="https://github.com/uysalserkan" target="_blank" rel="noopener">⌥ GitHub</a>
+        <a class="badge medium" href="https://medium.com/@uysalserkan" target="_blank" rel="noopener">Medium</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── Focus Areas ── -->
+  <section>
+    <h2>Focus Areas</h2>
+    <div class="focus-grid">
+      <div class="focus-card">
+        <div class="icon">🤖</div>
+        <h3>AI Agents</h3>
+        <p>Autonomous systems, multi-agent frameworks, RAG</p>
+      </div>
+      <div class="focus-card">
+        <div class="icon">👁️</div>
+        <h3>Computer Vision</h3>
+        <p>Object detection, image classification, CV pipelines</p>
+      </div>
+      <div class="focus-card">
+        <div class="icon">🚀</div>
+        <h3>Production ML</h3>
+        <p>MLOps, model deployment, monitoring, scaling</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Skills ── -->
+  <section>
+    <h2>Skills</h2>
+    <div class="skill-group">
+      <div class="label">Languages</div>
+      <div class="pill-row">
+        <span class="pill">Python</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <div class="label">ML / AI</div>
+      <div class="pill-row">
+        <span class="pill">PyTorch</span>
+        <span class="pill">TensorFlow</span>
+        <span class="pill">LangChain</span>
+        <span class="pill">RAG</span>
+        <span class="pill">Multi-Agent Systems</span>
+        <span class="pill">Computer Vision</span>
+        <span class="pill">NLP</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <div class="label">MLOps &amp; Infrastructure</div>
+      <div class="pill-row">
+        <span class="pill">ClearML</span>
+        <span class="pill">ZenML</span>
+        <span class="pill">Prefect</span>
+        <span class="pill">Docker</span>
+        <span class="pill">Kubernetes</span>
+        <span class="pill">Google Cloud Platform</span>
+      </div>
+    </div>
+    <div class="skill-group">
+      <div class="label">Tools</div>
+      <div class="pill-row">
+        <span class="pill">Git</span>
+        <span class="pill">GitHub Actions</span>
+        <span class="pill">Ruff</span>
+        <span class="pill">MyPy</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Projects ── -->
+  <section>
+    <h2>Projects</h2>
+    <div class="project-grid">
+      <div class="project-card">
+        <h3>📝 <a href="https://github.com/uysalserkan/Logges" target="_blank" rel="noopener">Logges</a></h3>
+        <p>An alternative logging tool for Python with additional utility functions</p>
+        <div class="project-meta">
+          <span class="stars">★ 21</span>
+          <span class="lang-dot"></span><span class="lang-label">Python</span>
+        </div>
+      </div>
+      <div class="project-card">
+        <h3>🔗 <a href="https://github.com/uysalserkan/url-shorter" target="_blank" rel="noopener">URL Shorter</a></h3>
+        <p>URL shortening service for creating compact, shareable links</p>
+        <div class="project-meta">
+          <span class="stars">★ 16</span>
+          <span class="lang-dot"></span><span class="lang-label">Python</span>
+        </div>
+      </div>
+      <div class="project-card">
+        <h3>☁️ <a href="https://github.com/uysalserkan/gcp-storage-mcp" target="_blank" rel="noopener">GCP Storage MCP</a></h3>
+        <p>Model Context Protocol server for Google Cloud Storage integration</p>
+        <div class="project-meta">
+          <span class="stars">★ 11</span>
+          <span class="lang-dot"></span><span class="lang-label">Python</span>
+        </div>
+      </div>
+      <div class="project-card">
+        <h3>🔍 <a href="https://github.com/uysalserkan/dependency-visualizer" target="_blank" rel="noopener">Dependency Visualizer</a></h3>
+        <p>Web app for visualizing import dependencies across multiple languages</p>
+        <div class="project-meta">
+          <span class="stars">★ 4</span>
+          <span class="lang-dot"></span><span class="lang-label">Python</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Connect ── -->
+  <section>
+    <h2>Connect</h2>
+    <div class="badge-row">
+      <a class="badge email" href="mailto:uysalserkan08@gmail.com">✉ Email</a>
+      <a class="badge linkedin" href="https://linkedin.com/in/uysalserkan" target="_blank" rel="noopener">in LinkedIn</a>
+      <a class="badge github" href="https://github.com/uysalserkan" target="_blank" rel="noopener">⌥ GitHub</a>
+      <a class="badge medium" href="https://medium.com/@uysalserkan" target="_blank" rel="noopener">Medium</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Serkan UYSAL · <a href="https://github.com/uysalserkan/uysalserkan">View on GitHub</a></p>
+  </footer>
+
+</div>
+</body>
+</html>
