@@ -16,7 +16,8 @@ Building AI agents, computer vision systems, and production-ready ML pipelines.
 
 ## GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uysalserkan&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uysalserkan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uysalserkan&theme=radical&layout=compact)
 
 ---
 
@@ -82,6 +83,8 @@ Building AI agents, computer vision systems, and production-ready ML pipelines.
 ---
 
 ## Location
+
+📍 Istanbul, Turkey
 
 ```geojson
 {
