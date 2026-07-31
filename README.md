@@ -4,15 +4,21 @@
 
 Building AI agents, computer vision systems, and production-ready ML pipelines.
 
+---
+
 ## Focus
 
 🤖 **AI Agents** — Autonomous systems, multi-agent frameworks, RAG  
 👁️ **Computer Vision** — Object detection, image classification, CV pipelines  
 🚀 **Production ML** — MLOps, model deployment, monitoring, scaling
 
+---
+
 ## GitHub Stats
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=uysalserkan&theme=radical)
+
+---
 
 ## Projects
 
@@ -21,31 +27,49 @@ Building AI agents, computer vision systems, and production-ready ML pipelines.
     <td valign="top">
       <h3>📝 Logges</h3>
       <p>An alternative logging tool for Python with additional utility functions</p>
-      <p><a href="https://github.com/uysalserkan/Logges"><img src="https://img.shields.io/badge/View-21_stars-blue?style=flat"></a>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></p>
+      <p>
+        <a href="https://github.com/uysalserkan/Logges">
+          <img src="https://img.shields.io/badge/View-21_stars-blue?style=flat">
+        </a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+      </p>
     </td>
     <td valign="top">
       <h3>🔗 URL Shorter</h3>
       <p>URL shortening service for creating compact, shareable links</p>
-      <p><a href="https://github.com/uysalserkan/url-shorter"><img src="https://img.shields.io/badge/View-16_stars-blue?style=flat"></a>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></p>
+      <p>
+        <a href="https://github.com/uysalserkan/url-shorter">
+          <img src="https://img.shields.io/badge/View-16_stars-blue?style=flat">
+        </a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+      </p>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>☁️ GCP Storage MCP</h3>
       <p>Model Context Protocol server for Google Cloud Storage integration</p>
-      <p><a href="https://github.com/uysalserkan/gcp-storage-mcp"><img src="https://img.shields.io/badge/View-11_stars-blue?style=flat"></a>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></p>
+      <p>
+        <a href="https://github.com/uysalserkan/gcp-storage-mcp">
+          <img src="https://img.shields.io/badge/View-11_stars-blue?style=flat">
+        </a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+      </p>
     </td>
     <td valign="top">
       <h3>🔍 Dependency Visualizer</h3>
       <p>Web app for visualizing import dependencies across multiple languages</p>
-      <p><a href="https://github.com/uysalserkan/dependency-visualizer"><img src="https://img.shields.io/badge/View-4_stars-blue?style=flat"></a>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></p>
+      <p>
+        <a href="https://github.com/uysalserkan/dependency-visualizer">
+          <img src="https://img.shields.io/badge/View-4_stars-blue?style=flat">
+        </a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+      </p>
     </td>
   </tr>
 </table>
+
+---
 
 ## Connect
 
@@ -54,6 +78,8 @@ Building AI agents, computer vision systems, and production-ready ML pipelines.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/uysalserkan)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@uysalserkan)
 [![Resume](https://img.shields.io/badge/-Resume-0d1117?style=flat&logo=github&logoColor=white)](https://uysalserkan.github.io/uysalserkan/)
+
+---
 
 ## Location
 
